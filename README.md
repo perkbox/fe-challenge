@@ -21,7 +21,7 @@ See https://www.npmjs.com/package/react-scripts for more details
 
 Please allow around 2 hours for this task.
 
-Create a small job capture application. The screenshots have been included in this zip.
+Create a small job capture application. The screenshots have been included in this repository.
 A user can have 1-3 jobs or be unemployed (0 jobs).
 
 We are just looking for the component markup and structure.
