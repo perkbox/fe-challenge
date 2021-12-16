@@ -19,7 +19,7 @@ See https://www.npmjs.com/package/react-scripts for more details
 
 ## Brief
 
-Timed: 1 hour
+Please allow around 2 hours for this task.
 
 Create a small job capture application. The screenshots have been included in this zip.
 A user can have 1-3 jobs or be unemployed (0 jobs).
@@ -36,7 +36,7 @@ We are just looking for the component markup and structure.
 ## TS or JS, your choice
 
 - Pick one by setting variable `USE_TYPESCRIPT` in `src/Home/App.tsx`
-- Using one or the other will not negatively reflect on your test result, use whatever you are more confident with.
+- Using one or the other will not negatively reflect on your test result, use whatever you are most comfortable with.
 
 
 ## Extra
@@ -47,4 +47,4 @@ There is a todo list tab with a (very) basic to do list. Improve it however you 
 
 ## Submission
 
-Upload the zip file to a cloud storage of your choice, just make sure its accessible. (e.g. GoogleDrive, github) (tip: don't include the node_modules folder!)
+Upload the zip file to a cloud storage of your choice, just make sure it's accessible. (e.g. GoogleDrive, github) (tip: don't include the node_modules folder!)
