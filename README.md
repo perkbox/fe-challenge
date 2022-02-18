@@ -1,21 +1,8 @@
 ## Table of Contents
 
-- [Running the project](#running-the-project)
 - [Brief](#brief)
 - [TS or JS, your choice](#ts-or-js)
-- [Extra](#extra)
-
-## Running the project
-
-This project has been set up with the standard react-cli script.
-Use:
-```
-$ npm install
-$ npm start
-```
-
-See https://www.npmjs.com/package/react-scripts for more details
-
+- [Submission](#submission)
 
 ## Brief
 
@@ -27,7 +14,7 @@ A user can have 1-3 jobs or be unemployed (0 jobs).
 We are just looking for the component markup and structure.
 
 - *We are **not** looking for logic or state management.*
-- *Styling is also **not** important, react-bootstrap has been included in this project but you are not required to use it.*
+- *Styling is also **not** important, use react-bootstrap or whichever UI framework you're most comfortable with.*
 - *Feel free to include any reasonable 3rd party modules (MaterialUI etc.)*
 
 [React-Bootstrap docs](https://5c507d49471426000887a6a7--react-bootstrap.netlify.com/)
@@ -35,16 +22,9 @@ We are just looking for the component markup and structure.
 
 ## TS or JS, your choice
 
-- Pick one by setting variable `USE_TYPESCRIPT` in `src/Home/App.tsx`
-- Using one or the other will not negatively reflect on your test result, use whatever you are most comfortable with.
-
-
-## Extra
-***Only do this if you complete the first task in time and are happy with it. Not doing this task will not impact negatively on your test.***
-
-There is a todo list tab with a (very) basic to do list. Improve it however you feel best.
+- At Perkbox, we use TypeScript as standard, however if you're more comfortable with using vanilla JavaScript, that's fine with us
+- Using one over the other will not negatively reflect on your test result. We're more keen to see how you approach component reusability and code structure than the flavour of JS you choose
 
 
 ## Submission
-
-Upload the zip file to a cloud storage of your choice, just make sure it's accessible. (e.g. GoogleDrive, github) (tip: don't include the node_modules folder!)
+Either share a GitHub repository with us or upload a zip file to a cloud storage of your choice, just make sure it's accessible (e.g. GoogleDrive, GitHub) (tip: don't include the node_modules folder!)
